@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hassunaama&label=Profile%20views&color=0e75b6&style=flat" alt="hassunaama" /> </p>
 
-- I’m currently working on [FEPL & UIG](hassunaama.github.io)
+- I’m currently working on [FEPL & UIG](https://hassunaama.github.io)
 
 - I’m currently learning **HTML & Other things**
 
 - I’m looking for help with **UIG**
 
-- All of my projects are available at [hassunaama.github.io](hassunaama.github.io)
+- All of my projects are available at [hassunaama.github.io](https://hassunaama.github.io)
 
-- I regularly write articles on [hassunaama.github.io/blog](hassunaama.github.io/blog)
+- I regularly write articles on [hassunaama.github.io/blog](https://hassunaama.github.io/blog)
 
 - How to reach me **helsincraft@gmail.com**
 
